@@ -1,6 +1,6 @@
-# Shiny Dashboard
+# JMMI API Documentation Dashboard
 
-This repository contains the code for a Shiny dashboard developed in R. The dashboard utilizes various R packages to provide an interactive web application.
+This repository contains the code for the JMMI API Documentation Shiny dashboard developed in R. The dashboard utilizes various R packages to provide an interactive web application.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
