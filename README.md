@@ -9,7 +9,6 @@ This repository contains the code for a Shiny dashboard developed in R. The dash
 4. [Features](#features)
 5. [Code Structure](#code-structure)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Prerequisites
 
